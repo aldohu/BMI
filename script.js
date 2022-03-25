@@ -81,11 +81,19 @@ console.log(isFullAge);
 */
 
 
-var BMI, markMass, markHeight, johnMass, johnHeight;
+var markBMI, johnBMI, markMass, markHeight, johnMass, johnHeight;
 
  markMass = Number(prompt("What is Mark's mass"));
  markHeight = Number(prompt("What is Mark's height"));
 
  johnMass = Number(prompt("What is Mark's mass"));
 johnHeight = Number(prompt("What is Mark's height"));
+
+
+
+
+
+
+
+
 
